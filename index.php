@@ -1,5 +1,6 @@
 <?php
 include 'ip.php';
-header('Location: login.html');
+echo "hello";
+//header('Location: login.html');
 exit
 ?>
